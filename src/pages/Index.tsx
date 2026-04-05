@@ -4,7 +4,7 @@ export default function Index() {
       <div className="grain-overlay" />
 
       <header className="header">
-        <div className="logo">RETRO*BITES</div>
+        <div className="logo">ДЖЕРИ*КАФЕ</div>
         <nav>
           <a href="#">Меню</a>
           <a href="#">О нас</a>
@@ -167,7 +167,7 @@ export default function Index() {
 
         <section className="section-padding">
           <h2 className="section-title" style={{ marginBottom: "40px", textAlign: "center" }}>
-            @RETRO.BITES
+            @ДЖЕРИ.КАФЕ
           </h2>
           <div className="social-grid">
             <div className="social-item">
@@ -200,7 +200,7 @@ export default function Index() {
 
       <footer>
         <div>
-          <div className="footer-logo">RETRO*BITES</div>
+          <div className="footer-logo">ДЖЕРИ*КАФЕ</div>
           <p style={{ color: "#666", lineHeight: 1.6 }}>
             Пицца, бургеры и хот-доги в атмосфере американских 70-х. Честная еда с огнём в каждом кусочке.
           </p>
@@ -240,7 +240,7 @@ export default function Index() {
           </ul>
         </div>
         <div className="footer-bottom">
-          <span>2025 RETRO BITES</span>
+          <span>2025 ДЖЕРИ КАФЕ</span>
           <span>ОГОНЬ В КАЖДОМ КУСОЧКЕ</span>
           <span>IG / TW / TK</span>
         </div>
